@@ -1,0 +1,20 @@
+# LaTeX
+*.pdf
+*.aux
+*.lof
+*.log
+*.lot
+*.out
+*.gz
+*.toc
+*.blg
+*.bbl
+*.dvi
+
+# Mac OS X
+.DS_Store
+
+# Python
+*.pyc
+*.ipynb_checkpoints
+*.npy
